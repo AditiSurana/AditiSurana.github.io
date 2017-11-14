@@ -1,0 +1,52 @@
+body{
+	margin: 2%;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 2px;
+
+}
+
+h2{
+	margin-top: 10%;
+	font-size: 24px;
+	font-weight: bold;
+	color:#00c19f;
+	text-align: center;
+}
+
+img{
+	width: 120px;
+	height: auto;
+}
+
+#notification{
+	font-size: 18px;
+	color: #333f48;
+	margin-top: 5%;
+	text-align: center;
+}
+
+#formbox{
+	text-align: center;
+}
+
+#zipcode{
+	border: 1px solid black;
+	padding: 1% 2%;
+	background-color: #ffffff;
+	
+}
+
+#submitButton{
+	background-color: #00c19f; 
+    border: none;
+    color: white;
+    padding: 1% 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin-left: 1%
+}
+
+button:focus {outline:0;}
